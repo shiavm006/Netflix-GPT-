@@ -6,7 +6,7 @@
 <p>The MOVIES-GPT App is an AI-driven platform that enhances the Netflix experience. It leverages OpenAI's GPT-3.5 model to provide personalized content recommendations .This project is for Netflix enthusiasts seeking a more engaging and customized streaming experience. It empowers users to explore content effortlessly, engage in natural language interactions, and gain a deeper understanding of their favorite shows and movies. Whether you're a seasoned Netflix user or just starting your streaming journey, this app is designed to make your entertainment experience more enjoyable and enriching.</p>
 
 
-<h4> <a href=https://movies-gpt.netlify.app/>View Demo</a> <span> · </span> <a href="https://docs.google.com/document/d/1Muefsocp5KR8cZtmdjgNcY3DQHNFGZIYZ6G1c6BRvGg/edit?usp=sharing"> High Level Design </a> <span>  · </span> <a href="https://docs.google.com/document/d/13_4E29XlWuXX90MhpUhNrjjClzJthUMIwcBSlA13YEc/edit?usp=sharing"> Low Level Design </a> <span>  · </span> <a href="https://github.com/gyandeeparyan/netflix-gpt/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/shiavm006/Netflix-GPT-"> Report Bug </a> <span> · </span> <a href=https://github.com/shiavm006/Netflix-GPT-> Request Feature </a> </h4>
+<h4> <a href=https://movies-gpt.netlify.app/>View Demo</a> <span> · </span> <a href="https://docs.google.com/document/d/1Muefsocp5KR8cZtmdjgNcY3DQHNFGZIYZ6G1c6BRvGg/edit?usp=sharing"> High Level Design </a> <span>  · </span> <a href="https://docs.google.com/document/d/13_4E29XlWuXX90MhpUhNrjjClzJthUMIwcBSlA13YEc/edit?usp=sharing"> Low Level Design </a> <span>  · </span> <a href="https://github.com/shiavm006/netflix-gpt/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/shiavm006/Netflix-GPT-"> Report Bug </a> <span> · </span> <a href=https://github.com/shiavm006/Netflix-GPT-> Request Feature </a> </h4>
    
 </div>   
 
@@ -69,7 +69,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-https://github.com/gyandeeparyan/netflix-gpt
+https://github.com/ shiavm006/netflix-gpt
 ```
 
 Go to the project directory
@@ -100,7 +100,7 @@ firebase deploy
 
 ## :wave: Contributing
 
-<a href="https://github.com/gyandeeparyan/netflix-gpt/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
+<a href="https://github.com/ shiavm006/netflix-gpt/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
 
 Contributions are always welcome!
 
@@ -108,7 +108,7 @@ see `contributing.md` for ways to get started
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/gyandeeparyan/netflix-gpt/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/shiavm006/netflix-gpt/blob/master/CODE_OF_CONDUCT.md)
 
 ## :handshake: Contact
 
