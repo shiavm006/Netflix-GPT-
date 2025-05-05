@@ -2,8 +2,14 @@
 node_modules/
 
 # Build output
-dist/
+dist
 build/
+
+./dist/assets/
+
+firebase deploy
+
+.firebase
 
 # Runtime data
 *.log
